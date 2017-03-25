@@ -1,0 +1,38 @@
+﻿/*
+ * Language code: de_DE
+ * Manually translated by Lukas Prömer <lukas.proemer@gmail.com>
+ * Generation date 2010-11-13 13:09:12
+ */
+
+
+CHARSET=UTF-8
+Module25000Name=Zusatzfelder
+Module25000Desc=Ermöglicht es, für Produkte und Services zusätzliche Felder anzulegen und individuell in Bestellungen oder Verträgen mit Werten zu füllen.
+CUSTOMINFO=Zusatzinformationen
+custominfoLines=Zusatzfelder
+CustominfoType=Feldtyp
+CustominfoDefaultValue=Standardwert
+
+CustominfoTypeText=Text
+CustominfoTypeSelect=Auswahlbox
+CustominfoTypeCheckbox=Checkbox
+CustominfoTypeNumber=Nummer
+CustominfoTypeLongText=langer Text
+CustominfoTypePassword=Passwort
+CustominfoTypeDate=Datum
+
+CustominfoCreatingInformations=(Standardwerte: Auswahlbox: 'd:vorselektierterWert1, wert2, wert3'; Checkbox: '1'(ja) oder '0'(nein); Datum: 'dd/mm/yyyy' oder 'now'; )
+
+AddCustomInfo=Feld hinzufügen
+DeleteCustomField=Feld entfernen
+ConfirmCustomField=Sie sie sicher, dass sie dieses Feld entfernen wollen? Alle mit dem Feld verbundenen Daten gehen dadurch verloren.
+custominfoCreateLine=Neues Feld hinzufügen
+edit=bearbeiten
+delete=löschen
+
+custominfoDeleteSuccessful=Feld erfolgreich entfernt
+custominfoErrorUpdating=Fehler beim aktualisieren der Felder
+custominfoErrorNoValue=Fehler: Standardwert muss angegeben werden
+custominfoErrorDuplicateTagName=Fehler: Feldname schon vergeben
+custominfoErrorNoTagName=Fehler: Bitte geben sie einen Feldnamen an
+custominfoSuccessful=Feld wurde erfolgreich aktualisiert

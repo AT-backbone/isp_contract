@@ -1,0 +1,11 @@
+﻿/*
+ * Language code: de_AT
+ * Manually translated by Lukas Prömer <lukas.proemer@gmail.com>
+ * Generation date 2010-11-13 13:09:12
+ */
+
+
+CHARSET=UTF-8
+services=Kunden Services
+Module35000Name=Kunden Services
+Module35000Desc=Listet abonierte Services beim Kunden auf.

@@ -1,0 +1,24 @@
+﻿/*
+ * Language code: de_DE
+ * Manually translated by Lukas Prömer <lukas.proemer@gmail.com>
+ * Generation date 2010-11-13 13:09:12
+ */
+CHARSET=UTF-8
+services=Kunden Services
+CustomerServiceSetup=Einstellungen Kundenservices
+CustomerServiceGlobalParameters=Globale Parameter
+Module35000Name=Kunden Services
+Module35000Desc=Listet abonierte Services beim Kunden auf.
+amount_expired_services=Anzahl abgelaufener Services
+MenuAmountExpiredServices=Abg. Services per Kunde
+ISPC=ISP Config
+ISPC_SOAPPATH=Soap-Path (url)
+ISPC_SOAPPATHExample=z.B. https://ispconfig.mydomain.com:8080/remote/index.php 
+ISPC_SOAPURI=Soap-URI (uri)
+ISPC_SOAPURIExample=z.B. https://ispconfig.mydomain.com:8080/remote
+ISPC_SOAPUSER=Remote User
+ISPC_SOAPUSERExample=Remote User muss im ISP-Config erstellt sein!
+ISPFOUND=Kunde in ISP-Config
+
+
+
